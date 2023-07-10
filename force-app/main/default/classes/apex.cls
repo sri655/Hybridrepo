@@ -3,6 +3,9 @@ public with sharing class apex {
 
     }
     public gh(){
+
+    }
+    publi add(){
         
     }
 }
