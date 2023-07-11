@@ -5,7 +5,10 @@ public with sharing class apex {
     public gh(){
 
     }
-    publi add(){
+    public add(){
+        
+    }
+    public mul(){
         
     }
 }
