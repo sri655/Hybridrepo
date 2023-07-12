@@ -2,13 +2,13 @@ public with sharing class apex {
     public apex() {
 
     }
-    public gh(){
+    public  void gh(){
 
     }
-    public add(){
+    public  void add(){
         
     }
-    public mul(){
+    public  void mul(){
         
     }
 }
